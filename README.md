@@ -3,7 +3,7 @@
 ### 4-Queen:
 ![4-Queen](src/Output/4-Queen/Answers.gif)
 
-### 10-Queen (with all 14200 permutations):
+### 10-Queen (with all 724 permutations):
 ![10-Queen](src/Output/10-Queen/Answers.gif)
 
 the generation already Answers are present for 4-Queen up to 10-Queen but only the final gif of 9-Quen and above is left as to reduce space.
