@@ -42,7 +42,6 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.io.IOException;
 import java.security.Principal;
-import java.security.acl.Group;
 import java.util.Collections;
 import java.util.Enumeration;
 
