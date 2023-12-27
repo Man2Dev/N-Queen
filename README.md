@@ -1,7 +1,6 @@
-# not a BomberMan game clone
+# N-Queen
 
-this game was made in 10 days in `eclipse`
-
+this game was made in `eclipse`
 
 ## run compiled game:
 1. clone my repo:
@@ -10,7 +9,7 @@ cd ~ && git clone git@github.com:Man2Dev/not-BomberMan.git
 ````
 2. run:
 ````
-./not-BomberMan/
+./N-Queen/
 ````
 
 ## compile it yourself on Linux
